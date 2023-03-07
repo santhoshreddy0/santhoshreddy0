@@ -7,9 +7,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{santhoshreddy0}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshreddy0&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
