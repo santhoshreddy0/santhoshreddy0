@@ -1,8 +1,6 @@
 # Santhosh Reddy
-<br>
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
-</br>
 <h4 align="left">Visitor's count :eyes:</h4>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{santhoshreddy0}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
