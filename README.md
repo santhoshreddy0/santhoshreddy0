@@ -1,8 +1,5 @@
 # Hi there, I'm Santhosh Reddy! 👋
 
-I'm a Linux lover. Here's a bit about me:
-
-- 👯 I’m looking to collaborate on interesting web projects.
 - 📫 How to reach me: Mail2myweb@gmail.com .
 
 ## Technologies I Love ❤️
