@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: Mail2myweb@gmail.com .
 
-## Technologies I Love ❤️
+## Technologies I Love
 
 Here are some of the technologies and tools I'm proficient in:
 
