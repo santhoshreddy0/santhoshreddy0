@@ -6,8 +6,11 @@
 
 Here are some of the technologies and tools I'm proficient in:
 
-- Back-end: Node.js, Python, Java, Spring boot, php, Golang, Express, Slim
-- Front-end: JavaScript, React, Next, HTML, CSS, Tailwind
+- languages: Java, python, php, Golang, javascript, typescript
+- frameWork/library:
+  - Back-end: SpringBoot, hibernate, Slim , Express
+  - Front-end: React, Next, Tailwind
+- Database: SQL, ElasticSeach, Redis
 - Message-Brokers: Rabbit Mq, BeanStalk
 - Other: Git, RESTful APIs, Cron, AWS
 
