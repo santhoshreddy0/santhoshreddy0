@@ -1,6 +1,6 @@
 # Hi there, I'm Santhosh Reddy! 👋
 
-- 📫 How to reach me: Mail2myweb@gmail.com .
+- 📫 How to reach me: santhoshkumardongala@gmail.com .
 
 ## Technologies I Love
 
@@ -27,7 +27,7 @@ Feel free to connect with me on:
 &nbsp; <a href="https://twitter.com/itsme_santhoshd" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/itsme_karikalan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/santhoshdkumar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:mail2myweb@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:santhoshkumardongala@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 
