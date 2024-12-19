@@ -8,11 +8,12 @@ Here are some of the technologies and tools I'm proficient in:
 
 - languages: Java, python, php, Golang, javascript, typescript
 - frameWork/library:
-  - Back-end: SpringBoot, hibernate, Slim , Express
-  - Front-end: React, Next, Tailwind
+  - Back-end: Micronaut, SpringBoot, hibernate, php Slim , Express
+  - Front-end: React, Next, Tailwind, bootstrap
 - Database: SQL, ElasticSeach, Redis
-- Message-Brokers: Rabbit Mq, BeanStalk
-- Other: Git, RESTful APIs, Cron, AWS
+- Message-Brokers: Kafka, Rabbit Mq, BeanStalk
+- Data Processing Engine: Spark
+- Other: AWS, OCI, cron, git
 
 
 ## GitHub Stats
@@ -25,7 +26,7 @@ Feel free to connect with me on:
 
 <p align="left">
 &nbsp; <a href="https://twitter.com/itsme_santhoshd" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/itsme_karikalan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/itsme_santhosh_reddy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/santhoshdkumar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:santhoshkumardongala@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
