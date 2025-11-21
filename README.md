@@ -8,7 +8,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 - languages: Java, python, php, Golang, javascript, typescript
 - frameWork/library:
-  - Back-end: Micronaut, SpringBoot, hibernate, php Slim , Express
+  - Back-end: Micronaut, SpringBoot, hibernate, php Slim , Express, Nest.js
   - Front-end: React, Next, Tailwind, bootstrap
 - Database: SQL, ElasticSeach, Redis
 - Message-Brokers: Kafka, Rabbit Mq, BeanStalk
